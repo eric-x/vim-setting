@@ -16,3 +16,6 @@
 [submodule "bundle/easygrep"]
 	path = bundle/easygrep
 	url = git://github.com/gaving/vim-easygrep.git
+[submodule "bundle/neocomlcache"]
+	path = bundle/neocomlcache
+	url = git://github.com/Shougo/neocomplcache.git
