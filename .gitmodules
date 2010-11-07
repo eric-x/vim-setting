@@ -4,3 +4,6 @@
 [submodule "CmdlineComplete"]
 	path = CmdlineComplete
 	url = git://github.com/vim-scripts/CmdlineComplete.git
+[submodule "bundle/CmdlineComplete"]
+	path = bundle/CmdlineComplete
+	url = git://github.com/vim-scripts/CmdlineComplete.git
