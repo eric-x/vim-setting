@@ -13,3 +13,6 @@
 [submodule "bundle/cocoa"]
 	path = bundle/cocoa
 	url = git://github.com/msanders/cocoa.vim.git
+[submodule "bundle/easygrep"]
+	path = bundle/easygrep
+	url = git://github.com/gaving/vim-easygrep.git
