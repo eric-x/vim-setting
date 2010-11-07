@@ -7,3 +7,9 @@
 [submodule "bundle/CmdlineComplete"]
 	path = bundle/CmdlineComplete
 	url = git://github.com/vim-scripts/CmdlineComplete.git
+[submodule "bundle/bufexplorer"]
+	path = bundle/bufexplorer
+	url = git://github.com/markabe/bufexplorer.git
+[submodule "bundle/cocoa"]
+	path = bundle/cocoa
+	url = git://github.com/msanders/cocoa.vim.git
