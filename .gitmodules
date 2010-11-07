@@ -1,0 +1,6 @@
+[submodule "bundle/conque"]
+	path = bundle/conque
+	url = git://github.com/rson/vim-conque.git
+[submodule "CmdlineComplete"]
+	path = CmdlineComplete
+	url = git://github.com/vim-scripts/CmdlineComplete.git
