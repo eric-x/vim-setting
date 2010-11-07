@@ -34,3 +34,6 @@
 [submodule "bundle/textobj-func"]
 	path = bundle/textobj-func
 	url = git://github.com/kana/vim-textobj-function.git
+[submodule "bundle/zoomwin"]
+	path = bundle/zoomwin
+	url = git://github.com/rphillips/vim-zoomwin.git
